@@ -6,8 +6,8 @@ this project is final project for vue.js course on udamy [link](https://www.udem
 
 - A front end web app using vue.js, in which a user can check the available coaches and view their profiles , filter them and contact them also register as a coach and check their own requests.
 
-[Watch demo here "to add"](//)
-
+[Watch demo here "to add"](//)    
+![uml "to add"](//)
 [Deployment "to add"](//)
 
 ## Auther
