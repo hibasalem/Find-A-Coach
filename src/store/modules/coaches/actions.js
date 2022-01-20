@@ -8,9 +8,10 @@ export default {
       hourlyRate: data.rate,
       areas: data.areas,
     };
-
+    const token = context.rootGetters.token;
     const response = await fetch(
-      `https://tidal-beacon-310418-default-rtdb.firebaseio.com/coaches/${userId}.json`,
+      `https://tidal-beacon-310418-default-rtdb.firebaseio.com/coaches/${userId}.json?auth=` +
+        token,
       { method: 'PUT', body: JSON.stringify(coachData) }
     );
 
