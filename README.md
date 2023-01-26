@@ -4,11 +4,11 @@ this project is final project for vue.js course on udamy [link](https://www.udem
 
 ## Project description
 
-- A front end web app using vue.js, in which a user can check the available coaches and view their profiles , filter them and contact them also register as a coach and check their own requests.
+- A frontend web app using vue.js, in which a user can check the available coaches and view their profiles , filter them and contact them also register as a coach and check their own requests.
 
 [Deployment link](https://tidal-beacon-310418.web.app/coaches)  
-[Watch demo here](//) ("to add")  
-![uml](//) ("to add")
+[Watch demo here](https://www.youtube.com/watch?v=LzZXegdvriY)
+![demo](./demo.JPG)
 
 ## Auther
 
